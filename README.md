@@ -1,9 +1,9 @@
 # nano
 List of coursework taken:\
 Foothill College\
-Summer 1994 
+Summer 1994\
 - Introduction to College\
-Fall 1994
+Fall 1994\
 - Introduction to Drawing\
 - Introduction to Music Theory\
 - Beginning Class Piano\
