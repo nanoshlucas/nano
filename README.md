@@ -7,9 +7,12 @@ Fall 1994
 - Introduction to Drawing
 - Introduction to Music Theory
 - Beginning Class Piano
-- Principles of Accounting
-- Piano I Lab
-- Accounting Pract: Merchandise
 - Composition & Reading
 - Writing Laboratory
 Winter 1995
+- Principles of Business
+- Survey of English Literature
+- Composition, Critical Reading/Thinking
+- Writing Laboratory
+Spring 1995
+- 
